@@ -1,2 +1,2 @@
-# gyakorlatGIT_projket1
+# projekt gyakorlat
 Szilágyi Szabolcs 11.D 2025.10.16
